@@ -26,7 +26,19 @@ https://github.com/user-attachments/assets/ece012b5-1f7b-4fb9-ad0b-affc7fee9fe5
 
 
 - Heart filled gradually  
+
+
+
+https://github.com/user-attachments/assets/b84cd82e-4c02-4af8-b2d1-e7a31b32fcd9
+
+
+
+
 - Burst effect with random lines filling the heart  
+
+
+
+https://github.com/user-attachments/assets/c100b907-0275-468a-a63e-a11133e99a4a
 
 
 
