@@ -11,8 +11,20 @@ Watch as hearts form line-by-line, fill from the center outward, or burst into s
 
 ## Preview  
 Examples of animations included:  
-- Heart created adding lines of asteriks
-- Heart outline forming line by line  
+- Heart created by adding lines of asterisks
+
+
+https://github.com/user-attachments/assets/7af8b31e-976c-4b69-add3-45f0bbf68ee1
+
+
+  
+- Heart outline forming line by line
+
+
+https://github.com/user-attachments/assets/ece012b5-1f7b-4fb9-ad0b-affc7fee9fe5
+
+
+
 - Heart filled gradually  
 - Burst effect with random lines filling the heart  
 
